@@ -1,0 +1,12 @@
+Monday:
+- implement working APIRequest
+- implement working movie list
+- 2 leetcode problems
+
+Tuesday:
+- implement working select movie function
+- finish project
+- 2 leetcode problems
+
+
+
